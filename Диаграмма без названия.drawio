@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T13:13:21.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vKa08dE3X0QGxciG0oOi" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T13:20:48.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I0jTB2a2HC8mUylzDWX-" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,13 +389,25 @@
         <mxCell id="Lm4weRIbrxB2xrLXX5re-186" value="Пользователь" style="swimlane;startSize=20;html=1;" vertex="1" parent="Lm4weRIbrxB2xrLXX5re-184">
           <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
         </mxCell>
+        <mxCell id="Lm4weRIbrxB2xrLXX5re-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Lm4weRIbrxB2xrLXX5re-186" source="Lm4weRIbrxB2xrLXX5re-190" target="Lm4weRIbrxB2xrLXX5re-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lm4weRIbrxB2xrLXX5re-190" value="Авторизация пользователя" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="Lm4weRIbrxB2xrLXX5re-186">
           <mxGeometry x="17.5" y="60" width="85" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm4weRIbrxB2xrLXX5re-193" value="Создание запроса" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="Lm4weRIbrxB2xrLXX5re-186">
+          <mxGeometry x="23.75" y="118" width="72.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Lm4weRIbrxB2xrLXX5re-187" value="Запрос" style="swimlane;startSize=20;html=1;" vertex="1" parent="Lm4weRIbrxB2xrLXX5re-184">
           <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
         </mxCell>
+        <mxCell id="Lm4weRIbrxB2xrLXX5re-194" value="Тип запроса" style="rounded=1;whiteSpace=wrap;html=1;arcSize=34;" vertex="1" parent="Lm4weRIbrxB2xrLXX5re-187">
+          <mxGeometry x="28" y="118" width="72.5" height="32" as="geometry" />
+        </mxCell>
         <mxCell id="Lm4weRIbrxB2xrLXX5re-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lm4weRIbrxB2xrLXX5re-184" source="Lm4weRIbrxB2xrLXX5re-189" target="Lm4weRIbrxB2xrLXX5re-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lm4weRIbrxB2xrLXX5re-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lm4weRIbrxB2xrLXX5re-184" source="Lm4weRIbrxB2xrLXX5re-193" target="Lm4weRIbrxB2xrLXX5re-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
