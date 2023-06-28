@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T12:01:03.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ITkqBMLDlEHcGNQ61Cfq" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T12:03:14.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K7IrM1mBUHLZlKUt6-zL" version="21.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1674" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -344,7 +344,7 @@
           <mxGeometry x="270" y="420" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lm4weRIbrxB2xrLXX5re-25" value="• Данные для входа &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; в систему(логин и пароль)&lt;/span&gt;&lt;/div&gt;• Внесённые данные о запросе" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="530" width="200" height="60" as="geometry" />
+          <mxGeometry x="-10" y="515" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lm4weRIbrxB2xrLXX5re-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.037;exitY=0.117;exitDx=0;exitDy=0;entryX=0.96;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
