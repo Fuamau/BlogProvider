@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T15:05:55.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tTddvfm6bYGvDB1kZJ5C" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T15:08:43.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vApRh8HyJWk4KA4hNqS7" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1147" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -947,40 +947,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-270" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1270" y="-80" width="100" height="50" as="geometry" />
+          <mxGeometry x="1280" y="-80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-271" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-270">
-          <mxGeometry x="14.285714285714286" y="7.831325301204819" width="85.71428571428571" height="42.16867469879518" as="geometry" />
+          <mxGeometry x="12.860999999999999" y="7.83" width="77.139" height="42.17" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-272" value="Добавление пользователя" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-270">
-          <mxGeometry width="85.71428571428571" height="42.16867469879518" as="geometry" />
+          <mxGeometry width="77.14285714285714" height="42.16867469879518" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-274" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="-20" width="100" height="50" as="geometry" />
+          <mxGeometry x="1290" y="-20" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-275" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-274">
-          <mxGeometry x="14.285714285714286" y="7.831325301204819" width="85.71428571428571" height="42.16867469879518" as="geometry" />
+          <mxGeometry x="12.857142857142858" y="7.831325301204819" width="77.14285714285714" height="42.16867469879518" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-276" value="Изменение данных пользователя" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-274">
-          <mxGeometry width="85.71428571428571" height="42.16867469879518" as="geometry" />
+          <mxGeometry width="77.14285714285714" height="42.16867469879518" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-277" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1310" y="40" width="80" height="50" as="geometry" />
+          <mxGeometry x="1320" y="40" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-278" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-277">
-          <mxGeometry x="11.428571428571429" y="7.831325301204819" width="68.57142857142857" height="42.16867469879518" as="geometry" />
+          <mxGeometry x="10" y="7.831325301204819" width="60" height="42.16867469879518" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-279" value="Удаление запроса" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-277">
-          <mxGeometry width="68.57142857142857" height="42.16867469879518" as="geometry" />
+          <mxGeometry width="60" height="42.16867469879518" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-280" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1820" y="-70" width="100" height="50" as="geometry" />
+          <mxGeometry x="1880" y="-70" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-281" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-280">
-          <mxGeometry x="14.285714285714286" y="7.831325301204819" width="85.71428571428571" height="42.16867469879518" as="geometry" />
+          <mxGeometry x="11.428571428571429" y="7.831325301204819" width="68.57142857142857" height="42.16867469879518" as="geometry" />
         </mxCell>
-        <mxCell id="62Moyqp-UZBhaZQ8_EQi-282" value="Добавление пользователя" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-280">
-          <mxGeometry width="85.71428571428571" height="42.16867469879518" as="geometry" />
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-282" value="Добавление типов запросов" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-280">
+          <mxGeometry width="68.57142857142857" height="42.16867469879518" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-283" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-284" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-283">
+          <mxGeometry x="11.431999999999999" y="7.83" width="68.568" height="42.17" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-285" value="Изменение типов запросов" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-283">
+          <mxGeometry width="68.56888888888889" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-286" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" y="60" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-287" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-286">
+          <mxGeometry x="10.001249999999999" y="10" width="59.998749999999994" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-288" value="Удаление типов запросов" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-286">
+          <mxGeometry width="60" height="42.16867469879518" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-289" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-290" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-289">
+          <mxGeometry x="12.860999999999999" y="7.83" width="77.139" height="42.17" as="geometry" />
+        </mxCell>
+        <mxCell id="62Moyqp-UZBhaZQ8_EQi-291" value="Добавление пользователя" style="whiteSpace=wrap;html=1;" vertex="1" parent="62Moyqp-UZBhaZQ8_EQi-289">
+          <mxGeometry width="77.14285714285714" height="42.16867469879518" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
