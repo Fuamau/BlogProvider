@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T08:55:17.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DymMCXkQYE_ygJv_4umo" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T08:56:52.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zIq8126HLXWHJ6c2SUAy" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="819" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -836,7 +836,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-244" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Отображаются разрешения&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1650" y="-19" width="110" height="40" as="geometry" />
+          <mxGeometry x="1649.72" y="-13.83" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62Moyqp-UZBhaZQ8_EQi-245" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="1220" y="-440" width="100" height="50" as="geometry" />
@@ -1011,7 +1011,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-8" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1686" y="39.5" width="74" height="55" as="geometry" />
+          <mxGeometry x="1686" y="46.5" width="74" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-9" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;size=10;" vertex="1" parent="rCo7NEoMyRVgVHwm20ML-8">
           <mxGeometry x="-20" y="8.61" width="94" height="46.39" as="geometry" />
@@ -1160,7 +1160,7 @@
           <mxGeometry x="1408" y="-141" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-49" value="Разрешение" style="shape=card;whiteSpace=wrap;html=1;size=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1671" y="117" width="80" height="42" as="geometry" />
+          <mxGeometry x="1671" y="121" width="80" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rCo7NEoMyRVgVHwm20ML-55" target="62Moyqp-UZBhaZQ8_EQi-252">
           <mxGeometry relative="1" as="geometry">
@@ -1171,7 +1171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#a680b8&quot;&gt;&lt;i&gt;31.&lt;/i&gt;&lt;/font&gt; Помещение разрешения в реестр&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1783" y="113" width="90" height="50" as="geometry" />
+          <mxGeometry x="1784" y="117" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="62Moyqp-UZBhaZQ8_EQi-272" target="rCo7NEoMyRVgVHwm20ML-40">
           <mxGeometry relative="1" as="geometry">
@@ -1342,6 +1342,12 @@
         </mxCell>
         <mxCell id="rCo7NEoMyRVgVHwm20ML-133" value="&lt;font color=&quot;#606c9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;17. Добавление типа&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1680" y="-228" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rCo7NEoMyRVgVHwm20ML-136" value="&lt;font color=&quot;#606c9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;19. Список разрешений&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1634" y="-37.83" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rCo7NEoMyRVgVHwm20ML-138" value="&lt;font color=&quot;#606c9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;20. Изменение разрешений&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1624" y="20" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
