@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T11:16:29.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l1CHKp-2QGvECasOZqOm" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T11:55:16.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qhsUvEqf6Yp_HGyEIGsg" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1666" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1394,6 +1394,21 @@
               <mxPoint x="371" y="357" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aRteEG4q46yOcrF1Fs5s-2" value="Веб" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="585" width="180" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="aRteEG4q46yOcrF1Fs5s-3" value="Сервер" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="585" width="180" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="aRteEG4q46yOcrF1Fs5s-4" value="Модель визуализации" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRteEG4q46yOcrF1Fs5s-5" value="Модель взаимодействия" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="480" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRteEG4q46yOcrF1Fs5s-6" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="740" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
